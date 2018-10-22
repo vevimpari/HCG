@@ -8,7 +8,6 @@ public class PositionList {
 	}
 	
 	public void addPosition(Position p){
-		System.out.println(p.getPos());
 		this.positionList.add(p);
 	}
 	
